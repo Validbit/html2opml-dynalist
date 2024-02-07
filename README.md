@@ -1,5 +1,5 @@
 # Chrome HTML to OPML \[dynalist\] convertor script
-When you 
+When you want to move your bookmarks into dynalist (if you don't use chrome, just import them into chrome/chromium through settings)
 
 ## Prerequisites
 ### Dependencies
