@@ -48,7 +48,7 @@ It will generate `output_dyna.opml` that you choose **when creating a new file i
 
 add part gh readme
 
-# Troublwshooting
+# Troubleshooting
 If an problem arises, **create a new issue**
 The script is ready for use (and should be compatible with most previous versions of chrome)
 
